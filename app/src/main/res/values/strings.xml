@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PADC-MealOrdering</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_listview">Meal Ordering - List View</string>
+    <string name="str_gridview">Meal Ordering - Grid View</string>
+    <string name="title_activity_meal_detail">MealDetailActivity</string>
+
+    <string name="meal_list_detail_transition_name">meal_list_detail_transition_name</string>
+</resources>

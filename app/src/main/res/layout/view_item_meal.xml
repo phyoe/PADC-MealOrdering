@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_medium">
+
+    <TextView
+        android:id="@+id/tv_meal_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chicken"
+        android:textSize="@dimen/text_regular"
+        android:textColor="@color/primary_text"
+        />
+
+    <xyz.phyoekhant.padc.mealordering.components.DynamicHeightImageView
+        android:id="@+id/iv_meal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sample_mealordering_thumbnail"
+        android:layout_marginTop="@dimen/margin_small"
+        />
+</LinearLayout>
